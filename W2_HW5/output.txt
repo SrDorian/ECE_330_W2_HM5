@@ -1,0 +1,27 @@
+PS C:\Users\emili\ECE_330\M2_HW5> .\fig08_13.exe
+Pls enter the size of your array of integers
+3
+Now enter the values of your array: 
+a1:
+10
+a2:
+0
+a3:
+5
+Pls enter the size of your array of floats
+5
+Now enter the values of your array: 
+b1:
+-30.43
+b2:
+0.43
+b3:
+10.687
+b4:
+6.1
+b5:
+5.878
+The value of the array of integers is:
+0 5 10
+The value of the array of floats is:
+-30.43 0.43 5.878 6.1 10.687
